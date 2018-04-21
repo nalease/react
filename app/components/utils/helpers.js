@@ -64,11 +64,8 @@ var apiGet = function(){
       else{
         reject("");
       }
-
     });
-
   });
-
 }
 
 var apiDelete = function(deleteArticleId){
@@ -82,11 +79,8 @@ var apiDelete = function(deleteArticleId){
       else{
         reject("");
       }
-
     });
-
   });
-
 }
 module.exports = {
  articleQuery,

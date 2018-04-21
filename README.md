@@ -1,5 +1,17 @@
 # NYT React Search
 
+Unable to host on heroku
+
+In order to view you must: 
+
+1.) clone the repo
+2.) run npm install
+3.) run node server.js or yarn start
+4.) view locally on http://localhost:3000/
+
+
+
+///////////////////////////////////////////////////////////////////////////////////
 ### Overview
 
 In this activity, you'll create a new React-based rendition of the New York Times Article Search application. This assignment requires you to create React components, work with helper functions, and utilize the React mounting lifecycle to query and display articles based on user searches. You'll also use Node, Express and MongoDB so that users can save articles to read later.

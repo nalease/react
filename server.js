@@ -31,7 +31,7 @@ db.on('error', function(err)
 db.once('open', function()
 {
   console.log(
-    'Mongoose connection successful.'
+    'Connection is successful.'
   );
 });
 var Article = require(
